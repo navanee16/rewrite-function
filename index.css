@@ -1,0 +1,15 @@
+.heading{
+    color: blue;
+    text-align: center;
+}
+
+h1{
+    color: red;
+    font-style: oblique;
+    font-variant: small-caps;
+
+}
+
+u{
+    font-weight: bold;
+}
